@@ -1,0 +1,5 @@
+Description:
+    Installs Aloha configuration files:
+        app/assets/javascripts/aloha-config.js
+    or (if --coffee option is present):
+        app/assets/javascripts/aloha-config.js.coffee
