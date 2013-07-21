@@ -1,6 +1,6 @@
 # Aloha::Rails::Improved
 
-Power your Rails 3 app with the [Aloha Editor](http://aloha-editor.org/)!
+Power your Rails app with the [Aloha Editor](http://aloha-editor.org/)!
 
 [![TravisCI Build Status](https://secure.travis-ci.org/kuraga/aloha-rails-improved.png?branch=master)](http://travis-ci.org/kuraga/aloha-rails-improved)
 [![Gem Version](https://badge.fury.io/rb/aloha-rails-improved.png)](http://badge.fury.io/rb/aloha-rails-improved)
@@ -9,11 +9,23 @@ Power your Rails 3 app with the [Aloha Editor](http://aloha-editor.org/)!
 
 ## Installation
 
-Ruby 1.9.2 or 1.9.3 is required. Rails 3.x is a required dependency.
+Required Ruby version:
+
+* 1.9.3,
+* 2.0.0,
+* rbx-19mode,
+* jruby-19mode.
+
+Required gems:
+
+* [ActionPack](http://rubygems.org/gems/actionpack) 3.0, 3.1, 3.2 or 4.0.
+* [ActiveSupport](http://rubygems.org/gems/activesupport) 3.0, 3.1, 3.2 or 4.0,
+
+(you can use [Rails](http://rubygems.org/gems/rails) 3.0, 3.1, 3.2 or 4.0 to require this).
 
 Add this line to your application's `Gemfile`:
 
-    gem 'aloha-rails'
+    gem 'aloha-rails-improved'
 
 Or, if you want to be on the edge:
 
