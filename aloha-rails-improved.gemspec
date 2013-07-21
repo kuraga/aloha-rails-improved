@@ -5,9 +5,10 @@ Gem::Specification.new do |gem|
   gem.authors       = ['Kurakin Alexander']
   gem.email         = 'kuraga333@mail.ru'
   gem.description   = 'Aloha Editor in Rails'
-  gem.summary       = 'Provides the Aloha Editor for your Rails 3 app'
+  gem.summary       = 'Provides the Aloha Editor for your Rails app'
   gem.homepage      = 'https://github.com/kuraga/aloha-rails-improved'
 
+  gem.required_ruby_version = '>= 1.9.3'
   gem.files         = `git ls-files`.split("\n")
   gem.test_files    = gem.files.grep(%r{^spec/})
   gem.name          = 'aloha-rails-improved'
