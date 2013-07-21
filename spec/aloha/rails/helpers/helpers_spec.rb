@@ -72,7 +72,7 @@ describe Aloha::Rails::Helpers do
 
     context 'with valid (String) url and no options' do
       it 'returns a javascript tag' do
-        expect(aloha_require('some-url')).to match(%r{<script type="text/javascript">})
+        expect(aloha_require('some-url')).to match(%r{<script.*>})
       end
     end
 
