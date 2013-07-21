@@ -2,6 +2,8 @@
 
 Power your Rails 3 app with the [Aloha Editor](http://aloha-editor.org/)!
 
+[![TravisCI Build Status](https://secure.travis-ci.org/kuraga/aloha-rails-improved.png?branch=master)](http://travis-ci.org/kuraga/aloha-rails-improved)
+
 ## Installation
 
 Ruby 1.9.2 or 1.9.3 is required. Rails 3.x is a required dependency.
