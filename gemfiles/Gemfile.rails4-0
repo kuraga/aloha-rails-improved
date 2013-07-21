@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+
+# Specify your gem's dependencies in aloha-rails-improved.gemspec
+gemspec path: '../'
+
+gem 'railties', '~> 4.0.0'
