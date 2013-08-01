@@ -4,6 +4,7 @@ Power your Rails 3 app with the [Aloha Editor](http://aloha-editor.org/)!
 
 [![TravisCI Build Status](https://secure.travis-ci.org/kuraga/aloha-rails-improved.png?branch=master)](http://travis-ci.org/kuraga/aloha-rails-improved)
 [![Gem Version](https://badge.fury.io/rb/aloha-rails-improved.png)](http://badge.fury.io/rb/aloha-rails-improved)
+[![Dependency Status](https://gemnasium.com/kuraga/aloha-rails-improved.png)](https://gemnasium.com/kuraga/aloha-rails-improved) 
 
 ## Installation
 
