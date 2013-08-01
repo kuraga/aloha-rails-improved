@@ -7,6 +7,7 @@ Gem::Specification.new do |gem|
   gem.description   = 'Aloha Editor in Rails'
   gem.summary       = 'Provides the Aloha Editor for your Rails app'
   gem.homepage      = 'https://github.com/kuraga/aloha-rails-improved'
+  gem.license       = 'MIT'
 
   gem.required_ruby_version = '>= 1.9.3'
   gem.files         = `git ls-files`.split("\n")
