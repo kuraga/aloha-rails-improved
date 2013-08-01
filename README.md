@@ -87,6 +87,11 @@ See code (and tests) for aditional information.
 
 Run `rake spec` to test. See tests in `spec/` directory. You should use Rake 10+ and RSpec 2.12 to test.
 
+## Inspired by
+
+* <https://github.com/Skalar/aloha-rails>
+* <https://github.com/locomotivecms/aloha-rails>
+
 ## See Also
 
 * [Aloha Editor website](http://aloha-editor.org/)
