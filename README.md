@@ -24,11 +24,11 @@ Required gems:
 
 Add this line to your application's `Gemfile`:
 
-    gem 'aloha-rails'
+    gem 'aloha-rails-improved', require: 'aloha/rails'
 
 Or, if you want to be on the edge:
 
-    gem 'aloha-rails', git: 'https://github.com/kuraga/aloha-rails-improved.git', branch: 'develop'
+    gem 'aloha-rails-improved', require: 'aloha/rails', git: 'https://github.com/kuraga/aloha-rails-improved.git', branch: 'develop'
 
 ## Basic Usage
 
